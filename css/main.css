@@ -1,0 +1,15 @@
+.navbar {
+  margin-bottom: 0;
+  background-color: #ffb3b3;
+}
+.navbar-default {
+  background-image: linear-gradient(to bottom,#f37373 0,#ffa4a4 100%);
+}
+.btn-primary{
+  border-color: #34dfea;
+  background-image: linear-gradient(to bottom,#ec0909 0,#dc1111 100%);
+}
+.btn-default {
+  background-image: linear-gradient(to bottom,#cc6767 0,#cc6767 100%);
+  color: #fff;
+}
